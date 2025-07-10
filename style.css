@@ -2141,10 +2141,10 @@ body.blog .section-white-background .section__blog {
 .section-title {
   font-style: normal;
   font-weight: 600;
-  font-size: 48px;
+  font-size: 35px;
   line-height: 1.17;
   text-align: center;
-  color: #fff;
+  color: rgb(0, 188, 220);
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
@@ -3214,7 +3214,7 @@ body.blog .section-white-background .section__blog {
   font-weight: 600;
   font-size: 48px;
   line-height: 1.17;
-  color: #00bcdc;
+  color: #00223a;
 }
 @media (max-width: 768px) {
   .section__content-img .content .title {
@@ -3233,7 +3233,7 @@ body.blog .section-white-background .section__blog {
   font-size: 20px;
   line-height: 1.6;
   letter-spacing: 0.01em;
-  color: #00bcdc;
+  color: #00223a;
 }
 .section__content-img .content .text p {
   margin: 10px 0 10px;
@@ -3268,7 +3268,7 @@ body.blog .section-white-background .section__blog {
   font-size: 20px;
   line-height: 1.6;
   letter-spacing: 0.01em;
-  color: #00bcdc;
+  color: #00223a;
 }
 .section__content-img .content .g-button {
   margin-top: 48px;
@@ -4797,7 +4797,7 @@ body.blog .section-white-background .section__blog {
 .section__contact-form .content .title {
   font-style: normal;
   font-weight: 600;
-  font-size: 136px;
+  font-size: 32px;
   line-height: 0.88;
   color: #00bcdc;
 }
@@ -4811,7 +4811,7 @@ body.blog .section-white-background .section__blog {
   margin-top: 24px;
   font-style: normal;
   font-weight: 600;
-  font-size: 32px;
+  font-size: 16px;
   line-height: 1.5;
   color: rgba(255, 255, 255, 0.7);
   max-width: 417px;
@@ -5880,7 +5880,7 @@ body.blog .section-white-background .section__blog {
 }
 .section__faq .item__head {
   font-weight: 600;
-  font-size: 32px;
+  font-size: 25px;
   line-height: 1.25;
   color: #fff;
   padding-right: 70px;
@@ -11888,4 +11888,3 @@ body.lock-scroll {
   color: #333;
   font-size: 14px;
 }
-
